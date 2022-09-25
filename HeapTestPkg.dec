@@ -1,0 +1,5 @@
+[Defines]
+  DEC_SPECIFICATION              = 1.27
+  PACKAGE_NAME                   = HeapTestPkg
+  PACKAGE_GUID                   = d302a287-5a23-4a6f-a79b-450a496fe061
+  PACKAGE_VERSION                = 1.00
